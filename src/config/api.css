@@ -1,0 +1,35 @@
+.container {
+  background-color: #abf083;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  color: #3b76e4;
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+}
+
+th {
+  width: 120px;
+  min-height: 40px;
+  font-size: 20px;
+  padding: 10px 0px 10px 0px;
+  border-bottom: 2px solid #004b5e;
+}
+
+td {
+  min-height: 30px;
+  padding: 10px 0px 10px 0px;
+  border-bottom: px solid #004b5e50;
+}
+
+* {
+  /* background-color: burlywood; */
+  /* text-align: center; */
+
+  margin: 0;
+}
